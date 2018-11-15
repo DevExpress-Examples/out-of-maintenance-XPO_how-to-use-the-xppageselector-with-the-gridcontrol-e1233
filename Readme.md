@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/Q144847/Form1.cs) (VB: [Form1.vb](./VB/Q144847/Form1.vb))**
+* [Northwind.cs](./CS/Q144847/Northwind.cs) (VB: [Northwind.vb](./VB/Q144847/Northwind.vb))
+<!-- default file list end -->
 # How to use the XPPageSelector with the GridControl
 
 
