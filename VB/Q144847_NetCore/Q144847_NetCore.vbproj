@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Q144847 - VB\Form1.vb" Link="Form1.vb" />
+    <Compile Include="..\Q144847 - VB\Form1.Designer.vb" Link="Form1.Designer.vb" />
+    <Compile Include="..\Q144847 - VB\Northwind.vb" Link="Northwind.vb" />
+    <Compile Include="..\Q144847 - VB\Program.vb" Link="Program.vb" />
+    <Compile Include="..\Q144847\Properties - VB\Resources.Designer.vb" Link="Resources.Designer.vb" />
+    <Compile Include="..\Q144847\Properties - VB\Settings.Designer.vb" Link="Settings.Designer.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\Q144847 - VB\Form1.resx" Link="Form1.resx" />
+    <EmbeddedResource Include="..\Q144847\Properties - VB\Resources.resx" Link="Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Q144847 - VB\app.config" Link="app.config" />
+    <None Include="..\Q144847\Properties - VB\Settings.settings" Link="Settings.settings" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DevExpress.WindowsDesktop.Win" Version="20.1.3-ctp" />
+  </ItemGroup>
+</Project>
