@@ -26,6 +26,6 @@
     <None Include="..\Q144847\Properties - VB\Settings.settings" Link="Settings.settings" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.WindowsDesktop.Win" Version="20.1.12-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win" Version="20.1.13-ctp" />
   </ItemGroup>
 </Project>
