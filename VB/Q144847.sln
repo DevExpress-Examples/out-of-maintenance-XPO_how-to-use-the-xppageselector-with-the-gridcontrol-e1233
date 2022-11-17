@@ -1,10 +1,10 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Q144847", "Q144847\Q144847.vbproj", "{0C201100-F338-4768-8ACA-98D81FBBEF15}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Q144847_NetCore", "Q144847_NetCore\Q144847_NetCore.vbproj", "{9730BDF1-1EB9-49E2-B5C9-F1D27DCA73D3}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Q144847_NetCore", "Q144847_NetCore\Q144847_NetCore.vbproj", "{9730BDF1-1EB9-49E2-B5C9-F1D27DCA73D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
